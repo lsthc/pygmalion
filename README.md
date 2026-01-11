@@ -4,3 +4,6 @@
 
 # 2026 CSAT Result
 <img width="1257" height="726" alt="image" src="https://github.com/user-attachments/assets/2171670d-c8ad-4063-b12c-b580dfc6d2b8" />
+
+# Learning Approaches
+<img width="1176" height="420" alt="image" src="https://github.com/user-attachments/assets/f9125711-f62e-4ca0-b980-4b0aba27eb49" />
