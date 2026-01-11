@@ -9,7 +9,7 @@
 No additional information or context was provided. 
 Also, a new empty conversation was used for each question.
 <br>
-Total Used: $41.93 **(Think OFF)**
+Total Used: $41.93 <b>(Think OFF)</b>
 
 # Learning Approaches
 <img width="1176" height="420" alt="image" src="https://github.com/user-attachments/assets/f9125711-f62e-4ca0-b980-4b0aba27eb49" />
