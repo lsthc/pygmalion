@@ -19,3 +19,6 @@ Also, a new empty conversation was used for each question.
 
 # Learning Approaches
 <img width="1176" height="420" alt="image" src="https://github.com/user-attachments/assets/f9125711-f62e-4ca0-b980-4b0aba27eb49" />
+
+# with Pigmalion
+<img width="1090" height="423" alt="image" src="https://github.com/user-attachments/assets/67c6642f-37b6-4350-8954-d7a61258dc01" />
