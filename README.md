@@ -1,4 +1,3 @@
-# pygmalion
 <img width="1186" height="494" alt="image" src="https://github.com/user-attachments/assets/d322a8dc-1a1f-4335-be68-0593c9e18437" />
 <br>
 - V1: 2025년 11월 21일 00:00 (KST)<br>
